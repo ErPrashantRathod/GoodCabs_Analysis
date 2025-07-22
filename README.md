@@ -14,11 +14,11 @@ This repository contains an end-to-end data analysis project built with Power BI
 
 - ## Tools & Skills
 
-- **Power BI**: Interactive dashboarding & data visualization
-- **SQL**: Data extraction and transformation
-- **Power Query**: Data cleaning & shaping
-- **Excel**: Supplementary calculations
-- **Data Storytelling** & Analytical Thinking
+- Power BI Data Modeling
+- Data Cleaning and Relationships
+- DAX Measures
+- Dashboard Design and Theming
+- Business Storytelling
 
 ---
 
