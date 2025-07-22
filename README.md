@@ -10,7 +10,7 @@ GoodCabs is a ride-hailing company operating in tier-2 cities across India, aimi
 
 This repository contains an end-to-end data analysis project built with Power BI and SQL. The project analyzes city-wise performance, customer retention, revenue, and operational trends to inform strategic decisions and business opportunities for GoodCabs.
 
-![Overview](https://github.com/ErPrashantRathod/Adventure_Works_Analysis/blob/main/1711408967531.png)
+![Overview](https://github.com/ErPrashantRathod/GoodCabs_Analysis/blob/main/generated-image%20(2).png)
 ---
 
 - ## Tools & Skills
