@@ -1,18 +1,18 @@
-# GoodCabs_Analysis
 
-# GoodCabs Analysis
+
+- # GoodCabs Analysis
 
 GoodCabs is a ride-hailing company operating in tier-2 cities across India, aiming to provide reliable and affordable mobility while supporting local drivers. This project showcases an in-depth data analysis of GoodCabs’ operational and customer metrics to uncover actionable insights that drive business growth and improve passenger experience.
 
 ---
 
-## Overview
+- ## Overview
 
 This repository contains an end-to-end data analysis project built with Power BI and SQL. The project analyzes city-wise performance, customer retention, revenue, and operational trends to inform strategic decisions and business opportunities for GoodCabs.
 
 ---
 
-## Tools & Skills
+- ## Tools & Skills
 
 - **Power BI**: Interactive dashboarding & data visualization
 - **SQL**: Data extraction and transformation
@@ -22,7 +22,7 @@ This repository contains an end-to-end data analysis project built with Power BI
 
 ---
 
-## Key Features
+- ## Key Features
 
 - Interactive Power BI dashboard covering city, month, and passenger type filters
 - New vs. repeat passenger analysis and segmentation
@@ -32,7 +32,7 @@ This repository contains an end-to-end data analysis project built with Power BI
 
 ---
 
-## Key Visuals
+- ## Key Visuals
 
 - Heatmaps for city-wise trips and revenue
 - Time series charts for monthly and seasonal analysis
@@ -42,7 +42,7 @@ This repository contains an end-to-end data analysis project built with Power BI
 
 ---
 
-## Key Insights
+- ## Key Insights
 
 - **Top Cities**: Pune, Jaipur, Nashik, and Surat are major revenue drivers.
 - **Repeat Passengers**: Surat leads with a 43% repeat rate; Mysore trails at 11%.
@@ -53,7 +53,7 @@ This repository contains an end-to-end data analysis project built with Power BI
 
 ---
 
-## Key Highlights
+- ## Key Highlights
 
 - Analysis spans 10 tier-2 Indian cities.
 - Unveils city and seasonal performance trends.
@@ -62,13 +62,13 @@ This repository contains an end-to-end data analysis project built with Power BI
 
 ---
 
-## Data Story
+- ## Data Story
 
 GoodCabs is rapidly expanding in a competitive market. This analysis highlights key contrasts: tourism hubs show seasonal passenger surges, while business centers display higher loyalty and retention. Mapping revenue, demand cycles, and repeat customer behavior enables GoodCabs to refine city-level strategies, invest in loyalty, and pilot innovations like EV fleets in the most promising regions.
 
 ---
 
-## Top Insights
+- ## Top Insights
 
 - Surat sets the benchmark for loyalty (43% repeat passengers).
 - Jaipur and Pune are revenue leaders, but Jaipur has low retention.
@@ -78,7 +78,7 @@ GoodCabs is rapidly expanding in a competitive market. This analysis highlights 
 
 ---
 
-## Recommendations
+- ## Recommendations
 
 - **Loyalty Programs**: Initiate in cities with low customer retention.
 - **Local Partnerships**: Collaborate with businesses and tourism boards.
@@ -89,7 +89,7 @@ GoodCabs is rapidly expanding in a competitive market. This analysis highlights 
 
 ---
 
-## Conclusion
+- ## Conclusion
 
 This project delivers a foundation for data-driven growth and operational excellence at GoodCabs. With actionable insights and clear visualizations, the leadership team can optimize city-wise performance, enhance passenger experience, and maintain a competitive edge in India’s tier-2 cab market.
 
