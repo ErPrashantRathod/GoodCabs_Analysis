@@ -54,7 +54,7 @@ This repository contains an end-to-end data analysis project built with Power BI
    - Visualizes regional revenue (North-West leads), and breaks down total trips by city and by       weekday/weekend.
      
    - Displays average fare per trip and per km for each city, with Jaipur having the                 highest fare figures.
-- Supports quick **performance comparison** across regions and cities for strategic insights.
+- Supports quick performance comparison across regions and cities for strategic insights.
 <img width="1412" height="792" alt="Revenue Dashboard" src="https://github.com/user-attachments/assets/5589ed71-c5e7-433b-953d-19824e732a86" />
 <img width="1413" height="793" alt="Target Dashboard" src="https://github.com/user-attachments/assets/4292fde7-5e71-4d50-9a81-cfe189acce22" />
 
