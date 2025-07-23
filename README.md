@@ -42,6 +42,10 @@ This repository contains an end-to-end data analysis project built with Power BI
 - Ratings comparison across cities
 ---
 - ## DashBoards
+- * Passengers Dashboard:
+   - Summarizes key business metrics for GoodCabs, including passengers, trips, and revenue.
+   - Visualizes company performance across cities to help stakeholders quickly identify trends       and growth opportunities.
+    - Supports decision-making with clear comparative insights on new/repeat customers and city-wise revenue distribution.
 <img width="1415" height="798" alt="Passengers Dashboard" src="https://github.com/user-attachments/assets/a177db29-8471-429d-a514-21fe1b00d134" />
 <img width="1412" height="792" alt="Revenue Dashboard" src="https://github.com/user-attachments/assets/5589ed71-c5e7-433b-953d-19824e732a86" />
 <img width="1413" height="793" alt="Target Dashboard" src="https://github.com/user-attachments/assets/4292fde7-5e71-4d50-9a81-cfe189acce22" />
