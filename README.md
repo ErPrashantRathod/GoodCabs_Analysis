@@ -57,6 +57,7 @@ This repository contains an end-to-end data analysis project built with Power BI
 - Supports quick performance comparison across regions and cities for strategic insights.
 <img width="1412" height="792" alt="Revenue Dashboard" src="https://github.com/user-attachments/assets/5589ed71-c5e7-433b-953d-19824e732a86" />
 - Target Dashboard:
+
   - Summarizes trip, new passenger, and rating targets versus actuals for each city, showing        over- or underperformance.
 
   - Highlights overall achievement metrics: 99.28% for trip targets, 95.62% for new passenger       targets, and 96.06% for average passenger rating targets.
