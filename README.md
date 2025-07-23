@@ -36,17 +36,18 @@ This repository contains an end-to-end data analysis project built with Power BI
 
 - ## Key Visuals
 
-- Heatmaps for city-wise trips and revenue
 - Time series charts for monthly and seasonal analysis
 - Retention graphs (new vs. repeat passenger ratios)
 - Bar charts for actual vs. target KPIs, fare per trip, and city ratings
 - Ratings comparison across cities
-
+---
+- ## DashBoards
+  
 ---
 
 - ## Key Insights
 
-- **Top Cities**: Pune, Jaipur, Nashik, and Surat are major revenue drivers.
+- **Top Cities**: Jaipur, Lucknow, and Surat are major revenue drivers.
 - **Repeat Passengers**: Surat leads with a 43% repeat rate; Mysore trails at 11%.
 - **Demand Peaks**: Highest ride volumes during festivals and holidays.
 - **Revenue vs. Retention**: Some high-revenue cities (e.g., Jaipur) lag in customer retention.
