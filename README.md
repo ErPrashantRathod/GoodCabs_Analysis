@@ -64,7 +64,7 @@ This repository contains an end-to-end data analysis project built with Power BI
 
   - Identifies best- and worst-performing cities, pinpointing where actuals exceed or miss          various business goals.
     
-  -Provides clear, city-wise insights for management to optimize strategy, enhance performance,    and focus improvement efforts.
+  - Provides clear, city-wise insights for management to optimize strategy, enhance                 performance,    and focus improvement efforts.
 <img width="1413" height="793" alt="Target Dashboard" src="https://github.com/user-attachments/assets/4292fde7-5e71-4d50-9a81-cfe189acce22" />
 
 ---
