@@ -13,6 +13,9 @@ This repository contains an end-to-end data analysis project built with Power BI
 <img width="1024" height="1024" alt="Goodcabs logo" src="https://github.com/user-attachments/assets/1f3c9be9-5613-4013-b8b3-a8955bc61ce2" />
 
 ---
+<img width="1112" height="770" alt="Goodcabs Model" src="https://github.com/user-attachments/assets/dd2d1d01-5843-42d0-8b47-1bb943e4beb6" />
+
+---
 
 - ## Tools & Skills
 
