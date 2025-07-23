@@ -48,6 +48,7 @@ This repository contains an end-to-end data analysis project built with Power BI
     - Supports decision-making with clear comparative insights on new/repeat customers and city-wise revenue distribution.
 <img width="1415" height="798" alt="Passengers Dashboard" src="https://github.com/user-attachments/assets/a177db29-8471-429d-a514-21fe1b00d134" />
 - Revenue Dashboard:
+   
    - Shows key metrics: average fare per trip, revenue growth rate, total passengers, total          revenue, and total trips at the top.
   
    - Visualizes regional revenue (North-West leads), and breaks down total trips by city and by       weekday/weekend.
