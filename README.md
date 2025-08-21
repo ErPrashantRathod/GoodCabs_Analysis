@@ -101,9 +101,9 @@ GoodCabs is rapidly expanding in a competitive market. This analysis highlights 
 - ## Top Insights
 
 - Surat sets the benchmark for loyalty (43% repeat passengers).
-- Jaipur and Pune are revenue leaders, but Jaipur has low retention.
+- Jaipur is revenue leaders, but Jaipur has low retention.
 - Festivals and tourism seasons drive demand spikes.
-- Gujarat cities offer strong potential for EV fleet deployment.
+- Tier 2 cities offer strong potential for EV fleet deployment.
 - Underperforming cities are ripe for targeted growth campaigns.
 
 ---
