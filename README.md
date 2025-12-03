@@ -2,7 +2,7 @@
 
 - # GoodCabs Analysis
 
-GoodCabs is a ride-hailing company operating in tier-2 cities across India, aiming to provide reliable and affordable mobility while supporting local drivers. This project showcases an in-depth data analysis of GoodCabs’ operational and customer metrics to uncover actionable insights that drive business growth and improve passenger experience
+GoodCabs is a ride-hailing company operating in tier-2 cities across India, aiming to provide reliable and affordable mobility while supporting local drivers. This project showcases an in-depth data analysis of GoodCabs’ operational and customer metrics to uncover actionable insights that drive business growth and improve passenger experience.
 
 ---
 
